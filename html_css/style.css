@@ -8,5 +8,14 @@ body{
     background: aqua;color: blue
 }
 .chill{
-    background:magenta
+    background:
+}
+.titl{
+    margin-left: 600px;
+}
+.myDiv{
+    border: 5px solid black;
+    background-color: green;
+    width: 500px;
+    margin-left: 400px
 }
